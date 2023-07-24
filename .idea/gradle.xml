@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Boolean variables" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Invitations and gifts" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Program a Boolean function" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Comparing numbers and characters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Digits or not" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Operations allowed" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Edit it" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Valid declarations" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Knights" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/Hello, Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/Sorting" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Kotlin/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of integers" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Lembas" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Returning a result" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Subtraction function" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Application" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Check the input" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Reading data" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Are the numbers different" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Who is less than 10" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Kotlin x5" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Repeat by value" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Size of parts" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Correct the code" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Printing texts" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string" />
+            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Date and time formatting" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/What are string templates" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Converting to Byte" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Simple converter" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Where is the type overflow possible" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Bank interest calculation" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/What does the code print" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Zookeeper (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
